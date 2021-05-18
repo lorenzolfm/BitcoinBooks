@@ -14,7 +14,7 @@ Don't trust, verify.
 
 Saifedean Ammous
 
-### Sumary
+### Summary
 
 In "The Bitcoin Standard", economist Saifedean Ammous walks the reader through the fascinating history of money technologies and explores how they acquired a monetary role and how they lost it. The lessons in this story show what are the desirable characteristics of money and how Bitcoin is the best embodiment of the characteristics. Ammous also sheds light on the economic, social, cultural and political benefits of a strong currency over a weak currency and explains in great detail the potential role that Bitcoin can generate in a digital economy.
 
