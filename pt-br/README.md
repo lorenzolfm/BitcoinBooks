@@ -20,6 +20,11 @@ Em "O Padrão Bitcoin", o economista Saifedean Ammous acompanha o leitor atravé
 
 O Bitcoin é, na realidade, uma alternativa descentralizada aos bancos centrais nacionais, escolhida pelo livre mercado, politicamente neutra e descentralizada, e não uma rede de pagamentos barata ou a moeda preferida de criminosos. O livro mostra como essa alternativa traz implicações potencialmente enormes para a liberdade individual e para a prosperidade. Para quem procura um claro entendimento sobre este novo dinheiro digital, O Padrão Bitcoin é o recurso essencial. A versão brasileira inclui um capítulo novo sobre a escalabilidade do Bitcoin, escrito pelo autor e divulgado como material de estudo em boletins de pesquisa independentes da obra original. Este capítulo se aprofunda naquilo que é visto como uma das limitações mais discutidas do Bitcoin: sua alegada incapacidade de processar muitas transações, o que poderia impedir sua escalabilidade. Ammous explora a natureza deste problema e discute como o Bitcoin poderá superá-lo.
 
+### Categorias
+
+* História;
+* Economia;
+
 ### Links
 
 * [Amazon](https://www.amazon.com.br/Padr%C3%A3o-Bitcoin-Edi%C3%A7%C3%A3o-Brasileira-Descentralizada/dp/B08PJPWG1J)

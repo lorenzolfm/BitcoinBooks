@@ -20,6 +20,11 @@ In "The Bitcoin Standard", economist Saifedean Ammous walks the reader through t
 
 Bitcoin is, in reality, a decentralized alternative to national banks, chosen by the free market, politically neutral and decentralized, and not a cheap payment network or a preferred currency of criminals. The book shows how this alternative brings enormous complications to individual freedom and prosperity. For anyone looking for an understanding of this new digital money, The Bitcoin Standard is the essential resource.
 
+### Categories
+
+* History;
+* Economics;
+
 ### Links
 
 * [saifedean.com](https://saifedean.com/thebitcoinstandard/)
