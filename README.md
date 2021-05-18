@@ -1,2 +1,1 @@
-# py-ringo
 # BitcoinBooks
