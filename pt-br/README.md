@@ -1,8 +1,8 @@
 # Bitcoin Books
 
-Uma lista de livros relacionados ao Bitcoin
+Uma lista de livros relacionados ao Bitcoin.
 
-**Não confie, verifique**
+**Não confie, verifique**.
 
 ## Sumário
 
