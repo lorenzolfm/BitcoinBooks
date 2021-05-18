@@ -6,7 +6,7 @@ Don't trust, verify.
 
 ## Sumary
 
-* [The Bitcoin Standard: The Decentralized Alternative to Central Banking](#the-bitcoin-standard%3A-the-decentralized-alternative-to-central-banking)
+* [The Bitcoin Standard: The Decentralized Alternative to Central Banking](#the-bitcoin-standard-the-decentralized-alternative-to-central-banking)
 
 ## The Bitcoin Standard: The Decentralized Alternative to Central Banking
 
