@@ -6,7 +6,7 @@ Uma lista de livros relacionados ao Bitcoin
 
 ## Sumário
 
-* [O Padrão Bitcoin: A Alternativa Descentralizada ao Banco Central]()
+* [O Padrão Bitcoin: A Alternativa Descentralizada ao Banco Central](#o-padrão-bitcoin-a-alternativa-descentralizada-ao-banco-central)
 
 ## O Padrão Bitcoin: A Alternativa Descentralizada ao Banco Central
 
