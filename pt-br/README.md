@@ -55,3 +55,32 @@ Em "21 Lessons", o autor conta o que aprendeu com o Bitcoin a partir de perspect
 * [21lessons.com](https://21lessons.com/)
 * [Amazon](https://www.amazon.com.br/21-Lessons-Learned-Falling-Bitcoin-ebook/dp/B083L93MJ7/)
 * [Tradução em Vídeo (Bitcoinheiros)](https://www.youtube.com/playlist?list=PLgcVYwONyxmgRqmVN3dl87waF-EvyULHe)
+
+## Mastering Bitcoin: Programming The Open Blockchain
+
+### Autor
+
+Andreas M. Antonopoulos
+
+### Sumário
+
+"Junte-se à revolução tecnológica que está tomando conta do mundo financeiro. "Mastering Bitcoin" é o seu guia através do mundo aparentemente complexo do bitcoin, fornecendo o conhecimento de que você precisa para participar da internet do dinheiro. Esteja você construindo o próximo aplicativo matador, investindo em uma startup ou simplesmente curioso sobre a tecnologia."
+
+O livro inclui:
+
+* Uma ampla introdução de bitcoin e seu blockchain subjacente - ideal para usuários não técnicos, investidores e executivos de negócios.
+* Uma explicação dos fundamentos técnicos do bitcoin e moedas criptográficas para desenvolvedores, engenheiros e arquitetos de software e sistemas.
+* Detalhes da rede descentralizada bitcoin, arquitetura ponto a ponto, ciclo de vida da transação e princípios de segurança.
+* Novos desenvolvimentos, como Testemunha Segregada, Canais de Pagamento e Rede Lightning.
+* Um mergulho profundo em aplicativos de blockchain, incluindo como combinar os blocos de construção oferecidos por esta plataforma em aplicativos.
+* Histórias de usuários, analogias, exemplos e fragmentos de código que ilustram os principais conceitos técnicos.
+
+### Categorias
+
+* Tecnologia
+* Técnico
+
+### Links
+
+* [Amazon (edição americana)](https://www.amazon.com.br/Mastering-Bitcoin-Programming-Blockchain-English-ebook/dp/B071K7FCD4/)
+* [Amazon (tradução)](https://www.amazon.com.br/Mastering-Bitcoin-portugu%C3%AAs-brasileiro-blockchain-ebook/dp/B07RL8Z6P1)
