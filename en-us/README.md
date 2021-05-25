@@ -29,3 +29,26 @@ Bitcoin is, in reality, a decentralized alternative to national banks, chosen by
 
 * [saifedean.com](https://saifedean.com/thebitcoinstandard/)
 * [Amazon.com](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861)
+
+## 21 Lessons
+
+### Author
+
+Gigi
+
+### Summary
+
+In "21 Lessons", the author tells what he learned from Bitcoin from philosophical, economic and technological perspectives:
+
+"Falling down the Bitcoin rabbit hole is a strange experience. Like many others, I feel like I have learned more in the last couple of years studying Bitcoin than I have during two decades of formal education. The following lessons are a distillation of what I’ve learned. First published as an article series titled “What I’ve Learned From Bitcoin,” what follows can be seen as a third edition of the original series. Like Bitcoin, these lessons aren’t a static thing. I plan to work on them periodically, releasing updated versions and additional material in the future.Bitcoin is an inexhaustible teacher, which is why I do not claim that these lessons are all-encompassing or complete. They are a reflection of my personal journey down the rabbit hole. There are many more lessons to be learned, and every person will learn something different from entering the world of Bitcoin. I hope that you will find these lessons useful and that the process of learning them by reading won’t be as arduous and painful as learning them firsthand."
+
+### Categories
+
+* Philosophy
+* Economics
+* Technology
+
+### Links
+
+* [21lessons.com](https://21lessons.com/)
+* [Amazon.com](https://www.amazon.com/21-Lessons-Learned-Falling-Bitcoin/dp/B088C1JVKY)
