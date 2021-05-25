@@ -7,4 +7,4 @@ Don't trust, verify.
 ## Languages
 
 * [English](en-us/README.md)
-* [Português (Brasileiro)](pt-br/README.md)
+* [Português (Brasil)](pt-br/README.md)
