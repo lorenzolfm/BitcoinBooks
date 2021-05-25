@@ -7,7 +7,7 @@ Don't trust, verify.
 ## Sumary
 
 * [The Bitcoin Standard: The Decentralized Alternative to Central Banking](#the-bitcoin-standard-the-decentralized-alternative-to-central-banking)
-* [21 Lessons: ]
+* [21 Lessons: What I've Learned from Falling Down the Bitcoin Rabbit Hole](#21-lessons-what-ive-learned-from-falling-down-the-bitcoin-rabbit-hole)
 
 ## The Bitcoin Standard: The Decentralized Alternative to Central Banking
 
