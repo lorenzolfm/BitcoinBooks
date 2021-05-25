@@ -7,6 +7,7 @@ Don't trust, verify.
 ## Sumary
 
 * [The Bitcoin Standard: The Decentralized Alternative to Central Banking](#the-bitcoin-standard-the-decentralized-alternative-to-central-banking)
+* [21 Lessons: ]
 
 ## The Bitcoin Standard: The Decentralized Alternative to Central Banking
 
@@ -30,7 +31,7 @@ Bitcoin is, in reality, a decentralized alternative to national banks, chosen by
 * [saifedean.com](https://saifedean.com/thebitcoinstandard/)
 * [Amazon.com](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861)
 
-## 21 Lessons
+## 21 Lessons: What I've Learned from Falling Down the Bitcoin Rabbit Hole
 
 ### Author
 
