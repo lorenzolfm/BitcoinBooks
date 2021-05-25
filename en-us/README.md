@@ -8,6 +8,7 @@ Don't trust, verify.
 
 * [The Bitcoin Standard: The Decentralized Alternative to Central Banking](#the-bitcoin-standard-the-decentralized-alternative-to-central-banking)
 * [21 Lessons: What I've Learned from Falling Down the Bitcoin Rabbit Hole](#21-lessons-what-ive-learned-from-falling-down-the-bitcoin-rabbit-hole)
+* [Mastering Bitcoin: Programming the Open Blockchain](#mastering-bitcoin-programming-the-open-blockchain)
 
 ## The Bitcoin Standard: The Decentralized Alternative to Central Banking
 
@@ -53,3 +54,33 @@ In "21 Lessons", the author tells what he learned from Bitcoin from philosophica
 
 * [21lessons.com](https://21lessons.com/)
 * [Amazon.com](https://www.amazon.com/21-Lessons-Learned-Falling-Bitcoin/dp/B088C1JVKY)
+
+## Mastering Bitcoin: Programming the Open Blockchain
+
+### Author
+
+Andreas M. Antonopoulos
+
+### Summary
+
+"Join the technological revolution that’s taking the financial world by storm. Mastering Bitcoin is your guide through the seemingly complex world of bitcoin, providing the knowledge you need to participate in the internet of money. Whether you’re building the next killer app, investing in a startup, or simply curious about the technology, this revised and expanded second edition provides essential detail to get you started."
+
+Bitcoin, the first successful decentralized digital currency, is still in its early stages and yet it’s already spawned a multi-billion-dollar global economy open to anyone with the knowledge and passion to participate. Mastering Bitcoin provides the knowledge. You simply supply the passion.
+
+The second edition includes:
+
+* A broad introduction of bitcoin and its underlying blockchain—ideal for non-technical users, investors, and business executives
+* An explanation of the technical foundations of bitcoin and cryptographic currencies for developers, engineers, and software and systems architects
+* Details of the bitcoin decentralized network, peer-to-peer architecture, transaction lifecycle, and security principles
+* New developments such as Segregated Witness, Payment Channels, and Lightning Network
+* A deep dive into blockchain applications, including how to combine the building blocks offered by this platform into higher-level applications
+* User stories, analogies, examples, and code snippets illustrating key technical concepts
+
+### Categories
+
+* Technology
+* Technical
+
+### Links
+
+* [Amazon.com](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388)
