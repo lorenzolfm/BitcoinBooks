@@ -23,3 +23,23 @@ O Bitcoin é, na realidade, uma alternativa descentralizada aos bancos centrais 
 ### Links
 
 * [Amazon](https://www.amazon.com.br/Padr%C3%A3o-Bitcoin-Edi%C3%A7%C3%A3o-Brasileira-Descentralizada/dp/B08PJPWG1J)
+
+## 21 Lessons: What I've Learned from Falling Down the Bitcoin Rabbit Hole
+
+### Autor
+
+Gigi.
+
+Tradução em português disponível [aqui](https://www.youtube.com/playlist?list=PLgcVYwONyxmgRqmVN3dl87waF-EvyULHe), feita pelo canal Bitcoinheiros.
+
+### Sumário
+
+Em "21 Lessons", o autor conta o que aprendeu com o Bitcoin a partir de perspectivas filosóficas, econômicas e tecnológicas:
+
+"Cair na toca do coelho do Bitcoin é uma experiência estranha. Como muitos outros, sinto que aprendi mais nos últimos anos estudando Bitcoin do que durante duas décadas de educação formal. As lições a seguir são uma destilação do que aprendi. Publicado pela primeira vez como uma série de artigos intitulada "O que aprendi com o Bitcoin", o que se segue pode ser visto como uma terceira edição da série original. Como o Bitcoin, essas lições não são estáticas. Pretendo trabalhar neles periodicamente, lançando versões atualizadas e material adicional no futuro. Bitcoin é um professor inesgotável, por isso não afirmo que essas lições sejam abrangentes ou completas. Eles são um reflexo de minha jornada pessoal pela toca do coelho. Há muito mais lições a serem aprendidas e cada pessoa aprenderá algo diferente ao entrar no mundo do Bitcoin. Espero que você ache essas lições úteis e que o processo de aprendê-las lendo não seja tão árduo e doloroso quanto aprendê-las em primeira mão."
+
+### Links
+
+* [21lessons.com](https://21lessons.com/)
+* [Amazon](https://www.amazon.com.br/21-Lessons-Learned-Falling-Bitcoin-ebook/dp/B083L93MJ7/)
+* [Tradução em Vídeo (Bitcoinheiros)](https://www.youtube.com/playlist?list=PLgcVYwONyxmgRqmVN3dl87waF-EvyULHe)
