@@ -9,7 +9,7 @@ Uma lista de livros relacionados ao Bitcoin.
 * [O Padrão Bitcoin: A Alternativa Descentralizada ao Banco Central](#o-padrão-bitcoin-a-alternativa-descentralizada-ao-banco-central)
 * [21 Lessons: What I've Learned from Falling Down the Bitcoin Rabbit Hole](#21-lessons-what-ive-learned-from-falling-down-the-bitcoin-rabbit-hole)
 * [Mastering Bitcoin: Programming the Open Blockchain](#mastering-bitcoin-programming-the-open-blockchain)
-* [The Internet of Money (3 volumes)](#the-internet-of-money-3-volumes)
+* [The Internet of Money (volume 1)](#the-internet-of-money-volume-1)
 
 ## O Padrão Bitcoin: A Alternativa Descentralizada ao Banco Central
 
@@ -87,7 +87,7 @@ O livro inclui:
 * [Amazon (edição americana)](https://www.amazon.com.br/Mastering-Bitcoin-Programming-Blockchain-English-ebook/dp/B071K7FCD4/)
 * [Amazon (tradução)](https://www.amazon.com.br/Mastering-Bitcoin-portugu%C3%AAs-brasileiro-blockchain-ebook/dp/B07RL8Z6P1)
 
-## The Internet Of Money (3 volumes)
+## The Internet Of Money (volume 1)
 
 ### Autor
 
@@ -112,5 +112,3 @@ Andreas vai além de explorar o funcionamento técnico da rede bitcoin, iluminan
 * [aantanop.com (site do autor)](https://aantonop.com/a-books/)
 * [Amazon (volume 1, edição inglês)](https://www.amazon.com.br/Internet-Money-Collection-Andreas-Antonopoulos/dp/1537000454)
 * [Amazon (volume 1, edição português)](https://www.amazon.com.br/Internet-do-Dinheiro-Andreas-Antonopoulos/dp/8585265000)
-* [Amazon (volume 2, edição inglês)](https://www.amazon.com.br/Internet-Money-Two-Collection-Antonopoulos/dp/194791006X/)
-* [Amazon (volume 3, edição inglês)](https://www.amazon.com.br/Internet-Money-Three-collection-Antonopoulos-ebook/dp/B082H26TYZ)
