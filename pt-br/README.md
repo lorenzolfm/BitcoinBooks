@@ -10,6 +10,8 @@ Uma lista de livros relacionados ao Bitcoin.
 * [21 Lessons: What I've Learned from Falling Down the Bitcoin Rabbit Hole](#21-lessons-what-ive-learned-from-falling-down-the-bitcoin-rabbit-hole)
 * [Mastering Bitcoin: Programming the Open Blockchain](#mastering-bitcoin-programming-the-open-blockchain)
 * [The Internet of Money (volume 1)](#the-internet-of-money-volume-1)
+* [The Internet of Money (volume 2)](#the-internet-of-money-volume-2)
+* [The Internet of Money (volume 3)](#the-internet-of-money-volume-3)
 
 ## O Padrão Bitcoin: A Alternativa Descentralizada ao Banco Central
 
@@ -112,3 +114,62 @@ Andreas vai além de explorar o funcionamento técnico da rede bitcoin, iluminan
 * [aantanop.com (site do autor)](https://aantonop.com/a-books/)
 * [Amazon (volume 1, edição inglês)](https://www.amazon.com.br/Internet-Money-Collection-Andreas-Antonopoulos/dp/1537000454)
 * [Amazon (volume 1, edição português)](https://www.amazon.com.br/Internet-do-Dinheiro-Andreas-Antonopoulos/dp/8585265000)
+
+## The Internet of Money (volume 2)
+
+### Autor
+
+Andreas M. Antonopoulos
+
+### Sumário
+
+"The Internet of Money Volume Dois: uma coleção de palestras" é a sequência espetacular do clássico cult e best-seller "The Internet of Money Volume Um", de Andreas M. Antonopoulos.
+
+O volume dois contém mais 11 de suas palestras mais inspiradoras e instigantes, incluindo:
+
+* Introdução ao Bitcoin;
+* Blockchain vs Bullshit;
+* Notícias falsas, dinheiro falso;
+* Guerras de moeda;
+* Bubble Boy e o Rato de Esgoto;
+* Rocket Science e Ethereum's Killer App; e muitos mais.
+
+O segundo volume oferece aos leitores uma oportunidade de vivenciar mais essas palestras inspiradoras e instigantes. Também inclui uma seção de perguntas e respostas bônus, onde Andreas responde algumas das perguntas mais frequentes do público durante sua turnê mundial. O Volume Dois é uma sequência que rivaliza, até mesmo excede, o primeiro, em conteúdo, escopo e visão. Essas palestras são iniciadores de fogo intelectuais que você não vai querer perder.
+
+### Categorias
+
+* Economia
+* Filosofia
+* Tecnologia
+
+### Links
+
+* [aantanop.com (site do autor)](https://aantonop.com/a-books/)
+* [Amazon (edição inglês)](https://www.amazon.com.br/Internet-Money-Two-Collection-Antonopoulos/dp/194791006X)
+
+## The Internet Of Money (volume 3)
+
+### Autor
+
+Andreas M. Antonopoulos
+
+### Sumário
+
+Esta terceira edição contém 12 de suas palestras mais inspiradoras e instigantes nos últimos dois anos, incluindo:
+
+* Acesso universal a finanças básicas,
+* Medindo o sucesso: preço ou princípio
+* Fugindo do Cartel Bancário Global
+* Libre não Libra
+* Código imparável: a diferença entre não posso e não vou;
+
+### Categorias
+
+* Economia
+* Filosofia
+* Tecnologia
+
+### Links
+
+* [aantanop.com (site do autor)](https://aantonop.com/a-books/)
+* [Amazon (edição inglês)](https://www.amazon.com.br/Internet-Money-Three-collection-Antonopoulos-ebook/dp/B082H26TYZ)
