@@ -9,6 +9,7 @@ Uma lista de livros relacionados ao Bitcoin.
 * [O Padrão Bitcoin: A Alternativa Descentralizada ao Banco Central](#o-padrão-bitcoin-a-alternativa-descentralizada-ao-banco-central)
 * [21 Lessons: What I've Learned from Falling Down the Bitcoin Rabbit Hole](#21-lessons-what-ive-learned-from-falling-down-the-bitcoin-rabbit-hole)
 * [Mastering Bitcoin: Programming the Open Blockchain](#mastering-bitcoin-programming-the-open-blockchain)
+* [The Internet of Money (3 volumes)]()
 
 ## O Padrão Bitcoin: A Alternativa Descentralizada ao Banco Central
 
@@ -85,3 +86,31 @@ O livro inclui:
 
 * [Amazon (edição americana)](https://www.amazon.com.br/Mastering-Bitcoin-Programming-Blockchain-English-ebook/dp/B071K7FCD4/)
 * [Amazon (tradução)](https://www.amazon.com.br/Mastering-Bitcoin-portugu%C3%AAs-brasileiro-blockchain-ebook/dp/B07RL8Z6P1)
+
+## The Internet Of Money (3 volumes)
+
+### Autor
+
+Andreas M. Antonopoulos
+
+### Sumário
+
+Enquanto muitos livros explicam o funcionamento do bitcoin, "The Internet of Money" investiga o porquê do bitcoin. O aclamado especialista em segurança da informação e autor de "Mastering Bitcoin", Andreas M. Antonopoulos examina e contextualiza a importância do bitcoin por meio de uma série de ensaios que abrangem a maturação estimulante dessa tecnologia.
+
+O Bitcoin, um avanço tecnológico introduzido discretamente ao mundo em 2008, está transformando muito mais do que as finanças. O Bitcoin está desestruturando indústrias antiquadas para levar independência financeira a bilhões em todo o mundo. Neste livro, Andreas explica por que o bitcoin é uma evolução financeira e tecnológica com potencial, que ultrapassa em muito o rótulo de "moeda digital".
+
+Andreas vai além de explorar o funcionamento técnico da rede bitcoin, iluminando as implicações filosóficas, sociais e históricas do bitcoin. Como a Internet transformou essencialmente a forma como as pessoas ao redor do mundo interagem e impactou permanentemente nossas vidas de maneiras que nunca poderíamos ter imaginado, o bitcoin - a internet do dinheiro - está mudando fundamentalmente nossa abordagem para resolver problemas sociais, políticos e econômicos por meio tecnologia descentralizada.
+
+### Categorias
+
+* Economia
+* Filosofia
+* Tecnologia
+
+### Links
+
+* [aantanop.com (site do autor)](https://aantonop.com/a-books/)
+* [Amazon (volume 1, edição inglês)](https://www.amazon.com.br/Internet-Money-Collection-Andreas-Antonopoulos/dp/1537000454)
+* [Amazon (volume 1, edição português)](https://www.amazon.com.br/Internet-do-Dinheiro-Andreas-Antonopoulos/dp/8585265000)
+* [Amazon (volume 2, edição inglês)](https://www.amazon.com.br/Internet-Money-Two-Collection-Antonopoulos/dp/194791006X/)
+* [Amazon (volume 3, edição inglês)](https://www.amazon.com.br/Internet-Money-Three-collection-Antonopoulos-ebook/dp/B082H26TYZ)
