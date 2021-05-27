@@ -9,6 +9,9 @@ Don't trust, verify.
 * [The Bitcoin Standard: The Decentralized Alternative to Central Banking](#the-bitcoin-standard-the-decentralized-alternative-to-central-banking)
 * [21 Lessons: What I've Learned from Falling Down the Bitcoin Rabbit Hole](#21-lessons-what-ive-learned-from-falling-down-the-bitcoin-rabbit-hole)
 * [Mastering Bitcoin: Programming the Open Blockchain](#mastering-bitcoin-programming-the-open-blockchain)
+* [The Internet Of Money (volume one)](#the-internet-of-money-volume-one)
+* [The Internet Of Money (volume two)](#the-internet-of-money-volume-two)
+* [The Internet Of Money (volume three)](#the-internet-of-money-volume-three)
 
 ## The Bitcoin Standard: The Decentralized Alternative to Central Banking
 
@@ -83,4 +86,87 @@ The second edition includes:
 
 ### Links
 
+* [aantanop.com](https://aantonop.com/a-books/)
 * [Amazon.com](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388)
+
+## The Internet Of Money (volume one)
+
+### Author
+
+Andreas M. Antonopoulos
+
+### Summary
+
+While many books explain the how of bitcoin, The Internet of Money delves into the why of bitcoin. Acclaimed information-security expert and author of Mastering Bitcoin, Andreas M. Antonopoulos examines and contextualizes the significance of bitcoin through a series of essays spanning the exhilarating maturation of this technology.
+
+Bitcoin, a technological breakthrough quietly introduced to the world in 2008, is transforming much more than finance. Bitcoin is disrupting antiquated industries to bring financial independence to billions worldwide. In this book, Andreas explains why bitcoin is a financial and technological evolution with potential far exceeding the label "digital currency."
+
+Andreas goes beyond exploring the technical functioning of the bitcoin network by illuminating bitcoin's philosophical, social, and historical implications. As the Internet has essentially transformed how people around the world interact and has permanently impacted our lives in ways we never could have imagined, bitcoin - the Internet of money - is fundamentally changing our approach to solving social, political, and economic problems through decentralized technology.
+
+### Categories
+
+* Philosophy
+* Economics
+* Technology
+
+### Links
+
+* [aantanop.com](https://aantonop.com/a-books/)
+* [Amazon.com](https://www.amazon.com/The-Internet-of-Money-audiobook/dp/B071KX8WP8/)
+
+## The Internet of Money (volume two)
+
+### Author
+
+Andreas M. Antonopoulos
+
+### Summary
+
+"The Internet of Money Volume Two: a collection of talks" is the spectacular sequel to the cult classic and best seller "The Internet of Money Volume One" by Andreas M. Antonopoulos. Volume Two contains 11 more of his most inspiring and thought-provoking talks, including:
+
+* Introduction to Bitcoin;
+* Blockchain vs Bullshit;
+* Fake News, Fake Money;
+* Currency Wars;
+* Bubble Boy and the Sewer Rat;
+* Rocket Science and Ethereum's Killer App;
+
+It also includes a bonus question and answer section, where Andreas answers some of the most frequently asked questions from audience members during his worldwide tour. Volume Two is a sequel that rivals, even exceeds, the first, in content, scope, and vision. These talks are intellectual fire-starters you won't want to miss.
+
+### Categories
+
+* Philosophy
+* Economics
+* Technology
+
+### Links
+
+* [aantanop.com](https://aantonop.com/a-books/)
+* [Amazon.com](https://www.amazon.com/Internet-Money-Andreas-M-Antonopoulos/dp/194791006X)
+
+## The Internet Of Money (volume three)
+
+### Author
+
+Andreas M. Antonopoulos
+
+### Summary
+
+While many guides explain the how of Bitcoin, the Internet of Money series delves into the why of Bitcoin. Following the worldwide success of Volume One and Volume Two, this third installment contains 12 of Andreas M. Antonopoulos' most inspiring and thought-provoking talks over the past two years, including:
+
+* "Universal Access to Basic Finance"
+* "Measuring Success: Price or Principle"
+* "Escaping the Global Banking Cartel"
+* "Libre Not Libra"
+* "Unstoppable Code: The Difference Between Can't and Won't"
+
+### Categories
+
+* Philosophy
+* Economics
+* Technology
+
+### Links
+
+* [aantanop.com](https://aantonop.com/a-books/)
+* [Amazon.com](https://www.amazon.com/Internet-Money-3/dp/B087N7X19W)

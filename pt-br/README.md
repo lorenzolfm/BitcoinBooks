@@ -86,6 +86,7 @@ O livro inclui:
 
 ### Links
 
+* [aantanop.com (site do autor)](https://aantonop.com/a-books/)
 * [Amazon (edição americana)](https://www.amazon.com.br/Mastering-Bitcoin-Programming-Blockchain-English-ebook/dp/B071K7FCD4/)
 * [Amazon (tradução)](https://www.amazon.com.br/Mastering-Bitcoin-portugu%C3%AAs-brasileiro-blockchain-ebook/dp/B07RL8Z6P1)
 
