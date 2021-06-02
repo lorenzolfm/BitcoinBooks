@@ -12,6 +12,7 @@ Uma lista de livros relacionados ao Bitcoin.
 * [The Internet of Money (volume 1)](#the-internet-of-money-volume-1)
 * [The Internet of Money (volume 2)](#the-internet-of-money-volume-2)
 * [The Internet of Money (volume 3)](#the-internet-of-money-volume-3)
+* [O Livro de Satoshi: A coletânea de escritos do criador do Bitcoin - Satoshi Nakamoto](#o-livro-de-satoshi-a-coletanea-de-escritos-do-criador-do-bitcoin-satoshi-nakamoto)
 
 ## O Padrão Bitcoin: A Alternativa Descentralizada ao Banco Central
 
@@ -174,3 +175,23 @@ Esta terceira edição contém 12 de suas palestras mais inspiradoras e instigan
 
 * [aantanop.com (site do autor)](https://aantonop.com/a-books/)
 * [Amazon (edição inglês)](https://www.amazon.com.br/Internet-Money-Three-collection-Antonopoulos-ebook/dp/B082H26TYZ)
+
+## O Livro de Satoshi: A coletânea de escritos do criador do Bitcoin - Satoshi Nakamoto
+
+### Autor
+
+Phil Champagne. Traduzido por Renata Nader Macedo.
+
+### Sumário
+
+Assim como a moeda que ele criou, a identidade do criador do Bitcoin, Satoshi Nakamoto, é virtual, existindo apenas online. A persona Nakamoto, que pode representar um indivíduo ou um grupo, existe apenas nas publicações online que introduziram e explicaram o Bitcoin durante seus primeiros dias. Aqui, coletados e publicados profissionalmente pela primeira vez, estão os escritos essenciais que detalham a criação do Bitcoin. Estão incluídos - E-mails de Satoshi Nakamoto e posts em fóruns de computador apresentados em ordem cronológica - Fundamentos do Bitcoin apresentados em termos de Layman - Potencial e implicações econômicas profundas do Bitcoin - O artigo seminal que deu início a tudo. O Livro de Satoshi fornece uma maneira conveniente de analisar o que o criador do Bitcoin escreveu durante os dois anos que constituíram sua "vida pública" antes de desaparecer da Internet... pelo menos sob o nome de Satoshi Nakamoto. Começando em 1º de novembro de 2009 com a publicação do artigo seminal descrevendo o Bitcoin, essa vida pública termina mais ou menos na época em que a PC World especulava sobre uma possível ligação entre o Bitcoin e o WikiLeaks, o infame site que publica materiais classificados que vazaram. Houve uma conexão? Você é o juíz. A verdadeira identidade de Nakamoto pode nunca ser conhecida.
+
+### Categorias
+
+* História
+
+### Links
+
+* [Amazon (Edição Português)](https://www.amazon.com.br/Livro-Satoshi-colet%C3%A2nea-escritos-Nakamoto/dp/6588983042)
+* [bookofsatoshi.com](https://www.bookofsatoshi.com/)
+* [Amazon (Edição Inglês)](https://www.amazon.com.br/Book-Satoshi-Collected-Writings-Nakamoto-ebook/dp/B00M6KGJ2K)
