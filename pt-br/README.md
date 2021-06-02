@@ -12,7 +12,7 @@ Uma lista de livros relacionados ao Bitcoin.
 * [The Internet of Money (volume 1)](#the-internet-of-money-volume-1)
 * [The Internet of Money (volume 2)](#the-internet-of-money-volume-2)
 * [The Internet of Money (volume 3)](#the-internet-of-money-volume-3)
-* [O Livro de Satoshi: A coletânea de escritos do criador do Bitcoin - Satoshi Nakamoto](#o-livro-de-satoshi-a-coletanea-de-escritos-do-criador-do-bitcoin-satoshi-nakamoto)
+* [O Livro de Satoshi: A coletânea de escritos do criador do Bitcoin - Satoshi Nakamoto](#o-livro-de-satoshi-a-coletânea-de-escritos-do-criador-do-bitcoin---satoshi-nakamoto)
 
 ## O Padrão Bitcoin: A Alternativa Descentralizada ao Banco Central
 
