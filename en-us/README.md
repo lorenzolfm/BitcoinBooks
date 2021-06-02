@@ -12,6 +12,7 @@ Don't trust, verify.
 * [The Internet Of Money (volume one)](#the-internet-of-money-volume-one)
 * [The Internet Of Money (volume two)](#the-internet-of-money-volume-two)
 * [The Internet Of Money (volume three)](#the-internet-of-money-volume-three)
+* [The Book of Satoshi: The Collected Writings of Bitcoin Creator Satoshi Nakamoto](#the-book-of-satoshi-the-collected-writings-of-bitcoin-creator-satoshi-nakamoto)
 
 ## The Bitcoin Standard: The Decentralized Alternative to Central Banking
 
@@ -170,3 +171,22 @@ While many guides explain the how of Bitcoin, the Internet of Money series delve
 
 * [aantanop.com](https://aantonop.com/a-books/)
 * [Amazon.com](https://www.amazon.com/Internet-Money-3/dp/B087N7X19W)
+
+## The Book of Satoshi: The Collected Writings of Bitcoin Creator Satoshi Nakamoto
+
+### Author
+
+Phil Champagne
+
+### Summary
+
+Like the currency he created, the identity of Bitcoin's creator Satoshi Nakamoto is virtual, existing only online. The Nakamoto persona, which may represent an individual or a group, exists only in the online publications that introduced and explained Bitcoin during its earliest days. Here, collected and professionally published for the first time are the essential writings that detail Bitcoin's creation. Included are - Satoshi Nakamoto Emails and Posts on Computer Forums Presented in Chronological Order - Bitcoin Fundamentals Presented in Layman's Terms - Bitcoin's Potential and Profound Economic Implications - The Seminal Paper Which Started It All The Book of Satoshi provides a convenient way to parse through what Bitcoin's creator wrote over the span of the two years that constituted his "public life" before he disappeared from the Internet... at least under the name Satoshi Nakamoto. Beginning on November 1st 2009 with the publication of the seminal paper describing Bitcoin, this public life ends at about the time PC World speculated as to a possible link between Bitcoin and WikiLeaks, the infamous website that publishes leaked classified materials. Was there a connection? You be the judge. Nakamoto's true identity may never be known. Therefore the writings reproduced here are probably all the world will ever hear from him concerning Bitcoin's creation, workings, and theoretical basis.
+
+### Categories
+
+* History
+
+### Links
+
+* [bookofsatoshi.com](https://www.bookofsatoshi.com/)
+* [Amazon.com](https://www.amazon.com/Book-Satoshi-Collected-Writings-Nakamoto/dp/0996061312)
