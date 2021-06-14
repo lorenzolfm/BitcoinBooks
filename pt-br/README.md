@@ -13,6 +13,8 @@ Uma lista de livros relacionados ao Bitcoin.
 * [The Internet of Money (volume 2)](#the-internet-of-money-volume-2)
 * [The Internet of Money (volume 3)](#the-internet-of-money-volume-3)
 * [O Livro de Satoshi: A coletânea de escritos do criador do Bitcoin - Satoshi Nakamoto](#o-livro-de-satoshi-a-coletânea-de-escritos-do-criador-do-bitcoin---satoshi-nakamoto)
+* [The Blocksize War: The battle for control over Bitcoin's protocol rules](#the-blocksize-war-the-battle-for-control-over-bitcoins-protocol-rules)
+
 
 ## O Padrão Bitcoin: A Alternativa Descentralizada ao Banco Central
 
@@ -195,3 +197,23 @@ Assim como a moeda que ele criou, a identidade do criador do Bitcoin, Satoshi Na
 * [Amazon (Edição Português)](https://www.amazon.com.br/Livro-Satoshi-colet%C3%A2nea-escritos-Nakamoto/dp/6588983042)
 * [bookofsatoshi.com](https://www.bookofsatoshi.com/)
 * [Amazon (Edição Inglês)](https://www.amazon.com.br/Book-Satoshi-Collected-Writings-Nakamoto-ebook/dp/B00M6KGJ2K)
+
+## The Blocksize War: The battle for control over Bitcoin's protocol rules
+
+### Autor
+
+Jonathan Bier
+
+### Sumário
+
+Este livro cobre a guerra do tamanho de bloco do Bitcoin, travada de agosto de 2015 a novembro de 2017. Superficialmente, a batalha era sobre a quantidade de dados permitida em cada bloco de Bitcoin, no entanto, expôs questões muito mais profundas, como quem controla as regras de protocolo do Bitcoin. Não é possível cobrir todas as reviravoltas no conflito ou todos os argumentos, portanto, o autor fornece uma cronologia dos eventos mais significativos. Este livro explora alguns dos principais personagens do conflito e inclui cobertura, tanto da linha de frente quanto dos bastidores, durante algumas das fases mais agudas da luta. Este livro inclui discussões com os principais jogadores de ambos os lados durante a guerra, explorando suas motivações, estratégia e processos de pensamento à medida que a campanha exaustiva progrediu e se desenvolveu.
+
+(Sem tradução)
+
+### Categorias
+
+* História
+
+### Links
+
+* [Amazon](https://www.amazon.com.br/Blocksize-War-controls-Bitcoins-protocol/dp/B08YQMC2WM)
