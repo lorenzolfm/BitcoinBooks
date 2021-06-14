@@ -13,6 +13,7 @@ Don't trust, verify.
 * [The Internet Of Money (volume two)](#the-internet-of-money-volume-two)
 * [The Internet Of Money (volume three)](#the-internet-of-money-volume-three)
 * [The Book of Satoshi: The Collected Writings of Bitcoin Creator Satoshi Nakamoto](#the-book-of-satoshi-the-collected-writings-of-bitcoin-creator-satoshi-nakamoto)
+* [The Blocksize War: The battle for control over Bitcoin's protocol rules](#the-blocksize-war-the-battle-for-control-over-bitcoins-protocol-rules)
 
 ## The Bitcoin Standard: The Decentralized Alternative to Central Banking
 
@@ -190,3 +191,21 @@ Like the currency he created, the identity of Bitcoin's creator Satoshi Nakamoto
 
 * [bookofsatoshi.com](https://www.bookofsatoshi.com/)
 * [Amazon.com](https://www.amazon.com/Book-Satoshi-Collected-Writings-Nakamoto/dp/0996061312)
+
+## The Blocksize War: The battle for control over Bitcoin's protocol rules
+
+### Author
+
+Jonathan Bier
+
+### Summary
+
+This book covers Bitcoin’s blocksize war, which was waged from August 2015 to November 2017. On the surface the battle was about the amount of data allowed in each Bitcoin block, however it exposed much deeper issues, such as who controls Bitcoin’s protocol rules. It is not possible to cover every twist and turn in the labyrinthine conflict or all the arguments, but the author have provided a chronology of the most significant events. This book explores some of the major characters in the conflict and includes coverage, from both the front lines and behind the scenes, during some of the most acute phases of the struggle. In this book you'll find discussions with the key players from both sides during the war, exploring their motivations, strategy and thought processes as the exhausting campaign progressed and developed.
+
+### Categories
+
+* History
+
+### Links
+
+* [Amazon.com](https://www.amazon.com/Blocksize-War-controls-Bitcoins-protocol/dp/B08YQMC2WM)
