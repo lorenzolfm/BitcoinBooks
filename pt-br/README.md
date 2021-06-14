@@ -216,4 +216,4 @@ Este livro cobre a guerra do tamanho de bloco do Bitcoin, travada de agosto de 2
 
 ### Links
 
-* [Amazon](https://www.amazon.com.br/Blocksize-War-controls-Bitcoins-protocol/dp/B08YQMC2WM)
+* [Amazon (Edição Inglês)](https://www.amazon.com.br/Blocksize-War-controls-Bitcoins-protocol/dp/B08YQMC2WM)
