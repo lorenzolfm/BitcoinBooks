@@ -62,6 +62,7 @@ Em "21 Lessons", o autor conta o que aprendeu com o Bitcoin a partir de perspect
 * [21lessons.com](https://21lessons.com/)
 * [Amazon](https://www.amazon.com.br/21-Lessons-Learned-Falling-Bitcoin-ebook/dp/B083L93MJ7/)
 * [Tradução em Vídeo (Bitcoinheiros)](https://www.youtube.com/playlist?list=PLgcVYwONyxmgRqmVN3dl87waF-EvyULHe)
+* [Tradução PT-BR (O Korea)](https://github.com/KoreaComK/21lessons-book)
 
 ## Mastering Bitcoin: Programming The Open Blockchain
 
